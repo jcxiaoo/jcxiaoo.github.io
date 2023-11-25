@@ -8,6 +8,8 @@ I am currently a postdoctoral fellow in the Department of Mathematics at the Chi
 
 Before this, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
 
+[Publications](./publications.html).
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
