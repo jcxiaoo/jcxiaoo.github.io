@@ -6,8 +6,11 @@ layout: default
 
 I am currently a postdoctoral fellow in the Department of Mathematics at the Chinese University of Hong Kong, collaborating with Professor [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/). Before this, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
 
-[Publications](./publications.html)
-[Teaching](./teaching.html)
+|[Publications](./publications.html)|[Teaching](./teaching.html)|
+
+## Contact information
+- Email: jcxiao@math.cuhk.edu.hk
+- Address: Lady Shaw’s Building, Room G07, The Chinese University of Hong Kong, Shatin, Hong Kong
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
