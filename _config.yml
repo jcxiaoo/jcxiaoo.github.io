@@ -4,3 +4,6 @@ description: This is my personal website.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+affiliation: The Chinese University of Hong Kong
+email: jcxiao@math.cuhk.edu.hk
