@@ -1,9 +1,10 @@
+# Publications
 
 ### Preprints
 
-- A note on the interior and dimensions of typical sumsets, 2022, to appear in *Proc. Amer. Math. Soc*.
-- [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with H.-J. Ruan), arXiv:2204.09219, submitted.
-- [Connectedness and local cut points of generalized Sierpinski carpets](https://arxiv.org/abs/2111.00889) (with X.-R. Dai, J. Luo, H.-J. Ruan and Y. Wang), arXiv:2111.00889, to appear in *Asian. J. Math*.
+1. A note on the interior and dimensions of typical sumsets, 2022, to appear in *Proc. Amer. Math. Soc*.
+2. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with H.-J. Ruan), arXiv:2204.09219, submitted.
+3. [Connectedness and local cut points of generalized Sierpinski carpets](https://arxiv.org/abs/2111.00889) (with X.-R. Dai, J. Luo, H.-J. Ruan and Y. Wang), arXiv:2111.00889, to appear in *Asian. J. Math*.
 
 ### Published
 
