@@ -1,10 +1,11 @@
-## Preprints
+
+### Preprints
 
 - A note on the interior and dimensions of typical sumsets, 2022, to appear in *Proc. Amer. Math. Soc*.
 - [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with H.-J. Ruan), arXiv:2204.09219, submitted.
 - [Connectedness and local cut points of generalized Sierpinski carpets](https://arxiv.org/abs/2111.00889) (with X.-R. Dai, J. Luo, H.-J. Ruan and Y. Wang), arXiv:2111.00889, to appear in *Asian. J. Math*.
 
-## Publications
+### Published
 
 1. [On the existence of cut points of connected generalized Sierpinski carpets](https://arxiv.org/abs/2204.07706) (with H.-J. Ruan and Y. Wang), *Ann. Fenn. Math.* **48** (2023), 229-254.
 2. [When does a Bedford-McMullen carpet have equal Hausdorff and topological Hausdorff dimensions](https://www.worldscientific.com/doi/abs/10.1142/S0218348X21501942) (with H.-J. Ruan), *Fractals* **29** (2021), 2150194.
