@@ -2,13 +2,12 @@
 layout: default
 ---
 
-### About me
+## About me
 
-I am currently a postdoctoral fellow in the Department of Mathematics at the Chinese University of Hong Kong, collaborating with Professor [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/).
+I am currently a postdoctoral fellow in the Department of Mathematics at the Chinese University of Hong Kong, collaborating with Professor [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/). Before this, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
 
-Before this, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
-
-[Publications](./publications.html).
+[Publications](./publications.html)
+[Teaching](./teaching.html)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
