@@ -1,4 +1,4 @@
-# Publications and preprints
+## Publications and preprints
 
 ### Preprints
 
