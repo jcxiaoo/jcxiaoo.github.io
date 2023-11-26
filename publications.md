@@ -1,5 +1,6 @@
 ## Research Interests
 
+My interests focus mainly on fractal geometry and related topics, especially:
 - Topological and geometric properties of self-similar or self-aﬀine sets
 - Dimension theory of fractal sets
 
