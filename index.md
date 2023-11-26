@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am currently a postdoctoral fellow in the Department of Mathematics at the Chinese University of Hong Kong, collaborating with Professor [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/). Before this, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
+Hi! I am Jian-Ci Xiao (萧建慈), who is currently a postdoctoral fellow in the Department of Mathematics at the Chinese University of Hong Kong, collaborating with Professor [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/). Before this, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
 
 ## Research Interests
 
