@@ -13,6 +13,7 @@ I am currently a postdoctoral fellow in the Department of Mathematics at the Chi
 - Dimension theory of fractal sets
 
 |[Publications & preprints](./publications.html)|[Teaching](./teaching.html)|[Talks](./talks.html)|
+|:----|:----|:----|
 
 ## Contact information
 
