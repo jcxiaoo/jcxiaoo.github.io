@@ -1,3 +1,8 @@
+## Research Interests
+
+- Topological and geometric properties of self-similar or self-aﬀine sets
+- Dimension theory of fractal sets
+
 ## Publications and preprints
 
 ### Preprints
