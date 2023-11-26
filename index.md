@@ -12,7 +12,7 @@ Hi! I am Jian-Ci Xiao (萧建慈), who is currently a postdoctoral fellow in the
 - Geometric properties of fractal sets
 - Dimension theory of fractal sets
 
-|[Publications](./publications.html)|[Teaching](./teaching.html)|[Talks](./talks.html)| 
+|[**Publications**](./publications.html)|[**Teaching**](./teaching.html)|[**Talks**](./talks.html)| 
 
 ## Contact information
 
