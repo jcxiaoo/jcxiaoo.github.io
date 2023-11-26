@@ -12,19 +12,7 @@ I am currently a postdoctoral fellow in the Department of Mathematics at the Chi
 - Geometric properties of fractal sets
 - Dimension theory of fractal sets
 
-<style>
-table th:first-of-type {
-    width: 34%;
-}
-table th:nth-of-type(2) {
-    width: 33%;
-}
-table th:nth-of-type(3) {
-    width: 33%;
-}
-</style>
-
-|[Publications & preprints](./publications.html)|[Teaching](./teaching.html)|[Talks](./talks.html)| 
+|[Publications](./publications.html)|[Teaching](./teaching.html)|[Talks](./talks.html)| 
 
 ## Contact information
 
