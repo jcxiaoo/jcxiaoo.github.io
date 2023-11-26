@@ -11,4 +11,4 @@ Hi! I am Jian-Ci Xiao (萧建慈), who is currently a postdoctoral fellow in the
 ## Contact information
 
 - Email: jcxiao@math.cuhk.edu.hk
-- Address: Lady Shaw’s Building, Room G07, The Chinese University of Hong Kong, Shatin, Hong Kong
+- Office: Lady Shaw Building, Room G07, The Chinese University of Hong Kong, Shatin, Hong Kong
