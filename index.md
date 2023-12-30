@@ -28,8 +28,17 @@ My interests focus mainly on fractal geometry and related topics, especially:
 4. [Fractal squares with finitely many connected components](https://iopscience.iop.org/article/10.1088/1361-6544/abd611), **Nonlinearity** 34 (2021), 1817–1836. 
 5. [Existence and box dimension of general recurrent fractal interpolation functions](https://doi.org/10.1017/S0004972720001045), with H.-J. Ruan and B. Yang, **Bull. Aust. Math. Soc.** 103 (2021), 278-290.
 
+## Teaching
 
-|[Research](./publications.html)|[Teaching](./teaching.html)|[Talks](./talks.html)|Others| 
+- Fall 2023, MATH1010, _University Mathematics_, The Chinese University of Hong Kong.
+- Fall 2022, MATH6081, _Topics in Analysis I_, The Chinese University of Hong Kong.
+
+## Talks
+
+1. Sep. 2022, _On the existence of cut points of connected generalized Sierpinski carpets_, Workshop on Analysis and Probability, The Chinese University of Hong Kong
+2. Oct. 2021, _Existence of general recurrent fractal interpolation functions_, Yantai University
+3. Apr. 2021, _Connected components of fractal squares_, Analysis Seminar, University of St Andrews
+
 
 ## Contact information
 
