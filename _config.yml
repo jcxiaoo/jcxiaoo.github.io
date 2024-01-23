@@ -1,9 +1,8 @@
 title: Jian-Ci Xiao
 logo: /assets/img/logo2.jpg
-name: Jian-Ci Xiao
 description: This is my personal website.
 #show_downloads: false
 #google_analytics:
-googlescholar: "https://scholar.google.com/citations?user=Ypz_3D4AAAAJ&hl=en"
+google_scholar: "https://scholar.google.com/citations?user=Ypz_3D4AAAAJ&hl=en"
 theme: jekyll-theme-minimal
 
