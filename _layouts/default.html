@@ -35,6 +35,10 @@
         <p class="view"><a href="{{ site.googlescholar.gs_url }}">View My Google Scholar Profile</a></p>
         {% endif %}
 
+        {% if site.mathscinet.msn_url %}
+        <p class="view"><a href="{{ site.mathscinet.msn_url }}">View My MathSciNet Profile</a></p>
+        {% endif %}
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
