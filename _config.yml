@@ -3,6 +3,8 @@ logo: /assets/img/jcxiao_logo2.jpg
 description: This is my personal website.
 googlescholar: 
   gs_url: https://scholar.google.com/citations?user=Ypz_3D4AAAAJ&hl=en
+mathscinet:
+  msn_url: https://mathscinet.ams.org/mathscinet/author?authorId=1427859
 #show_downloads: false
 #google_analytics:
 theme: jekyll-theme-minimal
