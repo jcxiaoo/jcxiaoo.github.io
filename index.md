@@ -6,8 +6,6 @@ layout: default
 
 Hi! I am Jian-Ci Xiao (萧建慈), who is currently a postdoctoral fellow in the Department of Mathematics at the Chinese University of Hong Kong, collaborating with Professor [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/). Before this, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
 
-[Google Scholar](https://scholar.google.com/citations?user=Ypz_3D4AAAAJ&hl=en) | [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1427859)
-
 ## Research Interests
 
 My interests focus mainly on fractal geometry and related topics, especially:
