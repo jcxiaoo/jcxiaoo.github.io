@@ -15,7 +15,7 @@ My interests focus mainly on fractal geometry and related topics, especially:
 ## Publications and preprints
 
 ### Preprints
-1. [On a self-embedding problem of self-similar sets](https://arxiv.org/abs/2310.12043), arXiv:2310.12043.
+1. [On a self-embedding problem for self-similar sets](https://arxiv.org/abs/2310.12043), arXiv:2310.12043, to appear in **Ergod. Th. & Dynam. Sys**.
 2. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219), with H.-J. Ruan, arXiv:2204.09219.
 3. [Connectedness and local cut points of generalized Sierpinski carpets](https://arxiv.org/abs/2111.00889), with X.-R. Dai, J. Luo, H.-J. Ruan and Y. Wang, arXiv:2111.00889, to appear in **Asian. J. Math**.
 
