@@ -40,5 +40,5 @@ My interests focus mainly on fractal geometry and related topics, especially:
 
 ## Contact information
 
-- Email: jcxiao@math.cuhk.edu.hk
+- Email: jcxiao1994@gmail.com
 - Office: Lady Shaw Building, Room G07, The Chinese University of Hong Kong, Shatin, Hong Kong
