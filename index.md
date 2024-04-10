@@ -15,9 +15,10 @@ My interests focus mainly on fractal geometry and related topics, especially:
 ## Publications and preprints
 
 ### Preprints
-1. [On a self-embedding problem for self-similar sets](https://arxiv.org/abs/2310.12043), arXiv:2310.12043, to appear in **Ergod. Th. & Dynam. Sys**.
-2. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219), with H.-J. Ruan, arXiv:2204.09219.
-3. [Connectedness and local cut points of generalized Sierpinski carpets](https://arxiv.org/abs/2111.00889), with X.-R. Dai, J. Luo, H.-J. Ruan and Y. Wang, arXiv:2111.00889, to appear in **Asian. J. Math**.
+1. [A self-similar set with non-locally connected components](https://arxiv.org/abs/2403.19999), arXiv:2403.19999, submitted.
+2. [On a self-embedding problem for self-similar sets](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/on-a-selfembedding-problem-for-selfsimilar-sets/A804BD23FA79328818C0A7AF6B71C322#article), arXiv:2310.12043, to appear in **Ergod. Th. & Dynam. Sys**.
+3. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219), with H.-J. Ruan, arXiv:2204.09219, submitted.
+4. [Connectedness and local cut points of generalized Sierpinski carpets](https://arxiv.org/abs/2111.00889), with X.-R. Dai, J. Luo, H.-J. Ruan and Y. Wang, arXiv:2111.00889, to appear in **Asian. J. Math**.
 
 ### Published
 1. [A note on the interior and dimensions of typical sumsets](https://doi.org/10.1090/proc/16500), **Proc. Amer. Math. Soc.** 151 (2023), 4799-4806.
