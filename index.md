@@ -34,9 +34,11 @@ My interests focus mainly on fractal geometry and related topics, especially:
 
 ## Talks
 
-1. Sep. 2022, _On the existence of cut points of connected generalized Sierpinski carpets_, Workshop on Analysis and Probability, The Chinese University of Hong Kong
-2. Oct. 2021, _Existence of general recurrent fractal interpolation functions_, Yantai University
-3. Apr. 2021, _Connected components of fractal squares_, Analysis Seminar, University of St Andrews
+1. Apr. 2024, _On a self-embedding problem for self-similar sets_, Chongqing University
+2. Apr. 2024, _On a self-embedding problem for self-similar sets_, Workshop on Fractal Geometry, Zhejiang University
+3. Sep. 2022, _On the existence of cut points of connected generalized Sierpinski carpets_, Workshop on Analysis and Probability, The Chinese University of Hong Kong
+4. Oct. 2021, _Existence of general recurrent fractal interpolation functions_, Yantai University
+5. Apr. 2021, _Connected components of fractal squares_, Analysis Seminar, University of St Andrews
 
 
 ## Contact information
