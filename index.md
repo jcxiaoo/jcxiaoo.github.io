@@ -29,14 +29,14 @@ My interests focus mainly on fractal geometry and related topics, especially:
 
 ## Teaching
 
-- Fall 2023, MATH1010, _University Mathematics_, The Chinese University of Hong Kong.
-- Fall 2022, MATH6081, _Topics in Analysis I_, The Chinese University of Hong Kong.
+- Fall 2023, MATH1010, _University Mathematics_, Chinese University of Hong Kong.
+- Fall 2022, MATH6081, _Topics in Analysis I_, Chinese University of Hong Kong.
 
 ## Talks
 
 1. Apr. 2024, _On a self-embedding problem for self-similar sets_, Chongqing University
 2. Apr. 2024, _On a self-embedding problem for self-similar sets_, Workshop on Fractal Geometry, Zhejiang University
-3. Sep. 2022, _On the existence of cut points of connected generalized Sierpinski carpets_, Workshop on Analysis and Probability, The Chinese University of Hong Kong
+3. Sep. 2022, _On the existence of cut points of connected generalized Sierpinski carpets_, Workshop on Analysis and Probability, Chinese University of Hong Kong
 4. Oct. 2021, _Existence of general recurrent fractal interpolation functions_, Yantai University
 5. Apr. 2021, _Connected components of fractal squares_, Analysis Seminar, University of St Andrews
 
@@ -44,4 +44,4 @@ My interests focus mainly on fractal geometry and related topics, especially:
 ## Contact information
 
 - Email: jcxiao1994@gmail.com
-- Office: Lady Shaw Building, Room G07, The Chinese University of Hong Kong, Shatin, Hong Kong
+- Office: Lady Shaw Building, Room G07, Chinese University of Hong Kong, Shatin, Hong Kong
