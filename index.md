@@ -17,13 +17,13 @@ My interests focus mainly on fractal geometry and related topics, especially:
 ### Preprints
 1. [A self-similar set with non-locally connected components](https://arxiv.org/abs/2403.19999), arXiv:2403.19999, submitted.
 2. [On a self-embedding problem for self-similar sets](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/on-a-selfembedding-problem-for-selfsimilar-sets/A804BD23FA79328818C0A7AF6B71C322#article), arXiv:2310.12043, to appear in *Ergod. Th. & Dynam. Sys*.
-3. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with Huo-Jun Ruan) arXiv:2204.09219, submitted.
+3. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with Huo-Jun Ruan), arXiv:2204.09219, submitted.
 
 ### Published
 1. [Connectedness and local cut points of generalized Sierpinski carpets](https://dx.doi.org/10.4310/AJM.2023.v27.n4.a4) (with Xin-Rong Dai, Jun Luo, Huo-Jun Ruan and Yang Wang), *Asian. J. Math* 27 (2023), 529--570.
 2. [A note on the interior and dimensions of typical sumsets](https://doi.org/10.1090/proc/16500), *Proc. Amer. Math. Soc.* 151 (2023), 4799--4806.
-3. [On the existence of cut points of connected generalized Sierpinski carpets](https://doi.org/10.54330/afm.127049) (with Huo-Jun Ruan and Yang Wang) *Ann. Fenn. Math.* 48 (2023), 229--254.
-4. [When does a Bedford-McMullen carpet have equal Hausdorff and topological Hausdorff dimensions](https://www.worldscientific.com/doi/abs/10.1142/S0218348X21501942) (with Huo-Jun Ruan) *Fractals* 29 (2021), 2150194.
+3. [On the existence of cut points of connected generalized Sierpinski carpets](https://doi.org/10.54330/afm.127049) (with Huo-Jun Ruan and Yang Wang), *Ann. Fenn. Math.* 48 (2023), 229--254.
+4. [When does a Bedford-McMullen carpet have equal Hausdorff and topological Hausdorff dimensions](https://www.worldscientific.com/doi/abs/10.1142/S0218348X21501942) (with Huo-Jun Ruan), *Fractals* 29 (2021), 2150194.
 5. [Fractal squares with finitely many connected components](https://iopscience.iop.org/article/10.1088/1361-6544/abd611), *Nonlinearity* 34 (2021), 1817--1836. 
 6. [Existence and box dimension of general recurrent fractal interpolation functions](https://doi.org/10.1017/S0004972720001045) (with Huo-Jun Ruan and Bing Yang), *Bull. Aust. Math. Soc.* 103 (2021), 278--290.
 
