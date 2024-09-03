@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-Hi! I am Jian-Ci Xiao (萧建慈), who is currently a postdoctoral fellow in the Department of Mathematics at the Chinese University of Hong Kong, collaborating with Professor [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/). Before this, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
+Hi! I am Jian-Ci Xiao (萧建慈), who is currently an associate research fellow in the School of Mathematics at Nanjing University of Aeronautics and Astronautics. During 2022 and 2023, I was a postdoctoral fellow in the Department of Mathematics at the Chinese University of Hong Kong, collaborating with Professor [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/). Before that, I was a PhD student in the School of Mathematical Sciences at Zhejiang University, supervised by Professor [Huo-Jun Ruan](https://person.zju.edu.cn/0002379).
 
 ## Research Interests
 
@@ -20,7 +20,7 @@ My interests focus mainly on fractal geometry and related topics, especially:
 3. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with Huo-Jun Ruan), arXiv:2204.09219, submitted.
 
 ### Published
-1. [Estimates on the topological Hausdorff dimensions of fractal squares](https://doi.org/10.1016/j.topol.2024.109003), *Topology Appl* 355 (2024), 109003.
+1. [Estimates on the topological Hausdorff dimensions of fractal squares](https://doi.org/10.1016/j.topol.2024.109003), *Topology Appl.* 355 (2024), 109003.
 2. [Connectedness and local cut points of generalized Sierpinski carpets](https://dx.doi.org/10.4310/AJM.2023.v27.n4.a4) (with Xin-Rong Dai, Jun Luo, Huo-Jun Ruan and Yang Wang), *Asian. J. Math* 27 (2023), 529--570.
 3. [A note on the interior and dimensions of typical sumsets](https://doi.org/10.1090/proc/16500), *Proc. Amer. Math. Soc.* 151 (2023), 4799--4806.
 4. [On the existence of cut points of connected generalized Sierpinski carpets](https://doi.org/10.54330/afm.127049) (with Huo-Jun Ruan and Yang Wang), *Ann. Fenn. Math.* 48 (2023), 229--254.
@@ -44,5 +44,5 @@ My interests focus mainly on fractal geometry and related topics, especially:
 
 ## Contact information
 
-- Email: jcxiao1994@gmail.com
-- Office: Lady Shaw Building, Room G07, Chinese University of Hong Kong, Shatin, Hong Kong
+- Email: jcxiao@nuaa.edu.cn
+- Office: Building A17, Room 348, Nanjing University of Aeronautics and Astronautics, Nanjing, China
