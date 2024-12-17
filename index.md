@@ -8,14 +8,13 @@ Hi! I am Jian-Ci Xiao (萧建慈), who is currently an associate research fellow
 
 ## Research Interests
 
-My interests focus mainly on fractal geometry and related topics, especially:
-- Topological and geometric properties of fractal sets
-- Dimension theory of fractal sets
+My interests focus mainly on fractal sets' geometric and topological properties and dimension theory. Some specific topics include the embedding problem of self-similar/self-affine sets, the interiors of self-similar sets and their sumsets or difference sets, homeomorphism criteria between carpet-like fractal sets, etc.
 
 ## Publications and preprints
 
 ### Preprints
-1. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with Huo-Jun Ruan), arXiv:2204.09219, submitted.
+1. [Self-embedding similitudes of Bedford-McMullen carpets with dependent ratios](https://arxiv.org/abs/2412.02123), arXiv:2412.02123, submitted.
+2. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with Huo-Jun Ruan), arXiv:2204.09219, submitted.
 
 ### Published
 1. [A self-similar set with non-locally connected components](https://doi.org/10.4171/jfg/148), *J. Fractal Geom.* 11 (2024), 389--395.
