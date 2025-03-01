@@ -14,7 +14,7 @@ My interests focus mainly on fractal sets' geometric and topological properties 
 
 ### Preprints
 1. [Self-embedding similitudes of Bedford-McMullen carpets with dependent ratios](https://arxiv.org/abs/2412.02123), arXiv:2412.02123, submitted.
-2. [An intersection problem of graph-directed attractors and an application](https://arxiv.org/abs/2204.09219) (with Huo-Jun Ruan), arXiv:2204.09219, submitted.
+2. [The connectedness of Sierpinski sponges with rotational and reflectional components and associated graph-directed systems](https://arxiv.org/abs/2204.09219) (with Huo-Jun Ruan), arXiv:2204.09219, to appear in *Math. Proc. Cambridge Philos. Soc.*
 
 ### Published
 1. [A self-similar set with non-locally connected components](https://doi.org/10.4171/jfg/148), *J. Fractal Geom.* 11 (2024), 389--395.
