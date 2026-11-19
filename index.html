@@ -41,7 +41,7 @@ a:focus-visible { outline: 2px solid var(--link); outline-offset: 3px; }
 .page { display: grid; grid-template-columns: 205px minmax(0, 1fr); gap: 42px; padding: 31px 0 58px; align-items: start; }
 .sidebar { position: sticky; top: 24px; padding: 0 20px 0 0; border-right: 1px solid var(--line); min-width: 0; }
 .portrait-frame {
-  width: 108px; height: 130px; border: 1px solid #e4eaee; border-radius: 6px; overflow: hidden; margin: 0 0 15px;
+  width: 108px; height: 108px; border: 1px solid #e4eaee; border-radius: 50%; overflow: hidden; margin: 0 0 15px;
   background: #f0f4f6; position: relative;
   color: #6b8492; font-family: Georgia, serif; font-size: 23px; letter-spacing: .06em;
 }
@@ -100,14 +100,14 @@ section { scroll-margin-top: 24px; }
   .nav { width: 100%; overflow-x: auto; gap: 16px; padding-bottom: 2px; }
   .page { grid-template-columns: 180px minmax(0,1fr); gap: 26px; }
   .sidebar { padding-right: 15px; }
-  .portrait-frame { width: 100px; height: 120px; }
+  .portrait-frame { width: 100px; height: 100px; }
   .activity-grid { grid-template-columns: 1fr; gap: 21px; }
 }
 @media (max-width: 620px) {
   .container { width: calc(100% - 32px); }
   .page { grid-template-columns: 1fr; gap: 25px; padding: 25px 0 48px; }
   .sidebar { position: static; border-right: 0; border-bottom: 1px solid var(--line); padding: 0 0 16px; display: grid; grid-template-columns: 82px minmax(0,1fr); column-gap: 14px; align-items: start; }
-  .portrait-frame { width: 82px; height: 100px; grid-row: span 4; margin-bottom: 0; }
+  .portrait-frame { width: 82px; height: 82px; grid-row: span 4; margin-bottom: 0; }
   .position { margin-top: 2px; }
   .affiliation { margin-bottom: 9px; }
   .sidebar-links { display: flex; flex-wrap: wrap; gap: 6px 13px; margin: 0; }
